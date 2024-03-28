@@ -115,7 +115,7 @@ const Footer = () => {
                 onClick={() => openWhatsAppChat('+94772875566')}
                 style={{ cursor: 'pointer' }}
               >
-                +91 6230267754
+                +94 77 287 5566
               </span>
             </li>
             <li className='text-sm text-[#8cb6c4]'>
