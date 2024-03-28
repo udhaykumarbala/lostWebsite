@@ -27,7 +27,7 @@ export default function Events() {
         Events
       </h3>
       <p className="sm:w-2/3 mx-auto text-[#4c4e4e] mb-10">
-        Lost Hostels: Where Everyone Finds Their Beat! Whether it's art, music,
+        Lost Traverse: Where Everyone Finds Their Beat! Whether it's art, music,
         or yoga, boredom is the last thing on our menu. Join us for
         unforgettable events and depart with a treasure trove of memories that
         knows no bounds.

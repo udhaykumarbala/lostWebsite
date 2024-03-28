@@ -5,7 +5,7 @@ export const items = [
     url: '',
     cardSubtitle: 'May',
     cardDetailedText:
-      "The first chapter unfolds in Varkala, a surfers' paradise in Kerala. Lost traverse opens its doors with a mission to bring together the global travel community.",
+      "The first chapter unfolds in Varkala, a surfers' paradise in Kerala. Lost Hostel opens its doors with a mission to bring together the global travel community.",
   },
   {
     year: '2018',
@@ -53,7 +53,7 @@ export const items = [
     url: '',
     cardSubtitle: 'May',
     cardDetailedText:
-      "We embrace the island spirit, bringing Lost traverse' magic to Weligama and Hiriketiya in Sri Lanka.",
+      "We embrace the island spirit, bringing Lost Hostel' magic to Weligama and Hiriketiya in Sri Lanka.",
   },
   {
     year: '2023',
@@ -61,7 +61,7 @@ export const items = [
     url: '',
     cardSubtitle: 'November',
     cardDetailedText:
-      'Lost traverse Manali opens, inviting travelers to the Himalayas.',
+      'Lost Hostel Manali opens, inviting travelers to the Himalayas.',
   },
   {
     year: '2024 and Beyond',
