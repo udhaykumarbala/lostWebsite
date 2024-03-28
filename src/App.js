@@ -19,6 +19,7 @@ import AllPosts from "./components/AllPosts.js";
 import OnePost from "./components/OnePost.js";
 import Timeline from "./components/Timeline.js";
 
+
 import AOS from "aos";
 import "aos/dist/aos.css";
 import { useLocation } from "react-router-dom";
@@ -56,7 +57,7 @@ const appRouter = createBrowserRouter([
       },
       {
         path: '/hostelnew/varkala',
-        element: <Varkala/>,
+        element: <Varkala />,
       },
       {
         path: '/workwithus',
@@ -114,10 +115,10 @@ function App() {
 
   return (
     <Wrapper>
-      <div className="font-dmsans">
-      
-       <Navbar />
-        <Popup />
+      <div className="font-dmsans top-4">
+
+        <Navbar />
+        {/* <Popup /> */}
         <Outlet />
         <Footer />
       </div>

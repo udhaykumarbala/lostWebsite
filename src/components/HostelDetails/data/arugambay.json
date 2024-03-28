@@ -1,0 +1,93 @@
+{
+    "gallery": {
+        "photo1": "https://img.freepik.com/free-photo/tropical-beach-with-palm-sri-lanka_167946-162.jpg?w=996&t=st=1692722789~exp=1692723389~hmac=50e793438cc1deb0ef886907ad613ebd2c9c5b85bbaf2c4a6fe3c374a88806f3",
+        "photo2": "https://img.freepik.com/free-photo/man-running-with-surfboard-while-woman-relaxing-beach-during-sunset_107420-10038.jpg?1&w=1380&t=st=1694166662~exp=1694167262~hmac=2de33b6e19e5964832fe29e49a8b84c38157b67ca1ea562a40b14519771bc787",
+        "photo3": "https://img.freepik.com/free-photo/girl-posing-with-board-sunset_1321-1353.jpg?w=1060&t=st=1692722956~exp=1692723556~hmac=3c0f9afc57d9dbbfc1da5bb07ff67c67c3f7dd31603400e16c36cc37f788bb12",
+        "photo4": "https://a.hwstatic.com/image/upload/f_auto,q_auto,w_1900,h_823,c_limit,e_sharpen,e_improve,e_vibrance:60/v1/propertyimages/3/321018/q9ypqpo0xvhzdij1rkyw",
+        "photo5": "https://img.freepik.com/free-photo/closeup-dj-working-blue-light_181624-18773.jpg?w=1380&t=st=1694166334~exp=1694166934~hmac=011f3b8b70539a1dbcfb32ea91f1768e1f6c8dbbb5df93692bf013c3a4b31982"
+    },
+    "about": {
+        "header": "Lost traverse, Arugam Bay, Sri Lanka",
+        "info": "Located on the famous surfing beach of Sri Lanka, Lost traverse, Arugam Bay - Sri Lanka offers a laid-back homely vibe with unique facilities in a relaxing and peaceful atmosphere. Throughout your stay, we offer safe and clean facilities with OPEN KITCHEN, free Wi-Fi, en-suite bathrooms, common places to hang out, and many more. We strive to ensure that our travelers stay with us as a part of the family.\n \n Travelers choose us because they like to meet new people, share their experiences & stories with each other, and learn new cultures while staying in the homely atmosphere but not for the facilities. Do not choose us if you rate a hostel based on its facilities rather than people and atmosphere. \n \n *Great atmosphere & Vibe \n \n *Cleanliness is very important for us \n \n *Outdoor Sitting under coconut trees \n \n *Occasional Barbecue and bonfire \n \n *Board games and daily activities \n \n *WiFi in all property \n \n *Guitar for our musician friends \n \n *Communal Kitchen with all basic facilities \n \n *Lockers - to protect everything that’s in your backpack \n \n Your stay in Arugam Bay should be one you will never forget, filled with laughter and both activities and time to relax and discover yourself. We believe in a strong community spirit and our hostel provides the facilities to make your stay truly unforgettable. Hang out in our backyard at campfires, cook dishes from all over the world in our open kitchen, and help yourself with lots of books for reading, games to play, and other activities to do. \n \n Lost in Sri Lanka with us.",
+        "bookingLink": "https://live.ipms247.com/booking/book-rooms-185812"
+    },
+    "location": {
+        "nearbyPlaces": [
+            {
+                "icon": "Beach",
+                "distance": "70 m",
+                "place": "Arugam Bay Beach "
+            },
+            {
+                "icon": "Beach",
+                "distance": "300 m",
+                "place": "Arugam Bay Surf"
+            },
+            {
+                "icon": "Beach",
+                "distance": "350 m",
+                "place": "Hangten Rooftop"
+            },
+            {
+                "icon": "Eatery",
+                "distance": "1.2 km",
+                "place": "Ceylon Sliders"
+            },
+            {
+                "icon": "Eatery",
+                "distance": "2.3km",
+                "place": "Fisherman's Bay Surf"
+            },
+            {
+                "icon": "Eatery",
+                "distance": "2.8 km",
+                "place": "Tiki Bar"
+            },
+            {
+                "icon": "Eatery",
+                "distance": "5.2 km",
+                "place": "Shady Lane"
+            },
+            {
+                "icon": "Beach",
+                "distance": "5.5 km",
+                "place": "Midigama Beach"
+            },
+            {
+                "icon": "Beach",
+                "distance": "5.8 km",
+                "place": "Mirissa Beach"
+            },
+            {
+                "icon": "Beach",
+                "distance": "6.3 km",
+                "place": "Turtle Beach"
+            }
+        ],
+        "mapLink": "https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3961.374477343041!2d81.8299188!3d6.845632099999999!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3ae5bd481c0c18ed%3A0xc37971eb12d3dcb3!2sThe%20Lost%20Hostels%2C%20Arugam%20Bay%20Beach%20-%20Sri%20Lanka!5e0!3m2!1sen!2sin!4v1711587792642!5m2!1sen!2sin"
+    },
+    "FAQ": {
+        "FAQs": [
+            {
+                "question": "Does the Hostel have its own bar?",
+                "answer": "We do not have an on-site bar. However, the supermarket is right next to us and there are several nearby bars and restaurants where people can enjoy a variety of drinks and socialize. These establishments offer a range of options and atmospheres to suit different preferences."
+            },
+            {
+                "question": "Are there any activities?",
+                "answer": "We take great pleasure in organizing a variety of activities and events for our valued guests. Whether it's engaging in local tours, physical and mental fitness activities, ice baths, exploring secret sunset spots, open mics, themed dinners, parties, ping pong tournaments, entertaining game nights, or relaxing movie nights, we offer a range of options throughout the year. Participating in these activities is not only enjoyable but also a fantastic opportunity to connect with fellow travelers and forge new friendships"
+            },
+            {
+                "question": "Can i rent surf board from the hostel ?",
+                "answer": "No, we do not rent surf boards, but you can rent it from near the hostel and keep them here safely for your convenience"
+            },
+            {
+                "question": "Can we make our own food in hostel ?",
+                "answer": "Yes, we have a communal kitchen area available for all of our guests to use. The kitchen is equipped with everything you need to cook your own meals. We also provide basic cooking utensils and cutlery, so you can prepare your own meals at your convenience."
+            },
+            {
+                "question": "Is the common area open 24/7?",
+                "answer": "That's correct! Our outdoor common areas are open 24 hours a day. Whether you're looking to relax, socialize with other guests, or simply unwind after a long day of exploring, you'll have access to the common area whenever you need it. We advise not making any noise indoors for the convenience of other travelers."
+            }
+        ]
+    }
+}

@@ -78,7 +78,7 @@ const YogaSchoolPage = () => {
                 className="w-full h-full shadow-none"
               />
             </SwiperSlide>
-            <img src={arrow} alt="arrow" className="absolute top-40 sm:top-96 -left-10 z-[99] h-28 w-28"/>
+            <img src={arrow} alt="arrow" className="absolute top-40 sm:top-96 -left-10 z-[99] h-28 w-28" />
           </Swiper>
         </div>
         <div className=" w-[100vw] sm:w-[50vw] md:min-h-screen flex flex-col justify-center items-start mx-auto sm:pr-32 px-10">
@@ -187,7 +187,7 @@ const YogaSchoolPage = () => {
           <p className="text-2xl font-playfair font-semibold text-[#116b89]">
             Location:
           </p>
-          <p>Lost Hostel Roof Top, Helipad Cliff, Varkala Beach, Kerala.</p>
+          <p>Lost Traverse Roof Top, Helipad Cliff, Varkala Beach, Kerala.</p>
           <p className="text-2xl font-playfair font-semibold text-[#116b89] mt-5">
             Contact Details:
           </p>

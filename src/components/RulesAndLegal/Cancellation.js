@@ -12,7 +12,7 @@ const Cancellation = () => {
         </span>
         <br></br>
         <br></br>
-        Bookings made with the Lost Hostels are non refundable.
+        Bookings made with Lost traverse are non refundable.
         <br></br>
         <br></br>
         No-shows will be charged the full amount.<br></br>

@@ -1,6 +1,8 @@
 import { useState } from "react";
 import { HashLink } from "react-router-hash-link";
 import logo from "../img/logo.png";
+import Marquee from "react-fast-marquee";
+import Sparkle from "react-sparkle";
 
 const Navbar = () => {
   const [isPhoneNavOpen, setIsPhoneNavOpen] = useState(false);
@@ -10,13 +12,13 @@ const Navbar = () => {
       link: "/#home",
     },
 
-   /*  {
-      title: "Events",
-      link: "/#events",
-    }, */
+    /*  {
+       title: "Events",
+       link: "/#events",
+     }, */
 
     {
-      title: "Locations",
+      title: "Hostels",
       link: "/#locations",
     },
     /* {
@@ -47,6 +49,8 @@ const Navbar = () => {
 
   return (
     <>
+      <Marquee className="fixed marquee">📢 Exciting News!, The Lost Hostels is now&nbsp;<span className="shimmer">Lost Traverse</span>. Same spirit, new horizon. Welcome to the journey! 🎉</Marquee >
+
       {isPhoneNavOpen && (
         <div class="block md:flex md:items-center md:justify-between w-full flex-1 bg-none fixed top-16 z-[99] bg-[#116b89]">
           <div class="flex md:hidden bg-transparent flex-col md:flex-row md:items-center mx-5">
@@ -67,13 +71,14 @@ const Navbar = () => {
             })}
           </div>
         </div>
-      )}
+      )
+      }
 
-      <div className="fixed top-0 left-0 w-[100vw] bg-transparent h-[10vh] flex justify-between items-center sm:px-28 px-5 font-medium navbar z-[99] text-white">
+      <div className="fixed top-6 left-0 w-[100vw] bg-transparent h-[10vh] flex justify-between items-center sm:px-28 px-5 font-medium navbar z-[99] text-white">
         <HashLink to="/#home">
           <p className="text-xl font-playfair relative flex items-center">
-            <img src={logo} className="mr-2 w-12" alt="lost hostel logo"></img>
-            The Lost Hostels
+            <img src={logo} className="mr-2 w-12" alt="lost traverse logo"></img>
+            Lost Traverse
           </p>
         </HashLink>
         <div

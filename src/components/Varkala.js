@@ -7,7 +7,7 @@ const Varkala = () => {
       <div className='varkalaHero w-[95vw] h-[80vh] mt-[14vh] mx-auto relative rounded-md text-center'>
         <div className='absolute top-10 left-12 text-left sm:w-1/3'>
           <h1 className='text-3xl font-playfair font-semibold py-4 text-white'>
-            Unwind at Soul, <br></br>The Lost Hostels' Secluded Sanctuary
+            Unwind at Soul, <br></br>Lost traverse' Secluded Sanctuary
           </h1>
           <p className='text-l font-medium text-white'>
             Where the soulful serenity of the black beach meets the heartwarming
@@ -52,10 +52,10 @@ const Varkala = () => {
       </div>
       <section className='flex flex-col justify-center gap-4 items-center px-5 sm:px-28 w-full relative mb-12'>
         <h2 className='text-3xl font-playfair font-semibold py-4 text-[#116b89]'>
-          Why The Lost Hostels Varkala?
+          Why Lost traverse Varkala?
         </h2>
         <p className='text-center'>
-          Soul by The Lost Hostels is where you find balance. Our holistic
+          Soul by Lost traverse is where you find balance. Our holistic
           approach to travel involves immersive yoga, wellness workshops, and
           eco-conscious living. It’s not just a stay; it’s a transformational
           experience designed to reconnect you with your inner peace.<br></br>
@@ -65,7 +65,7 @@ const Varkala = () => {
           Story of Lost at Soul
         </h2>
         <p className='text-center mb-8'>
-          Soul was born from a dream to deepen The Lost Hostels' connection to
+          Soul was born from a dream to deepen Lost traverse' connection to
           traveler's inner journeys. In 2021, this dream took root beside
           Varkala's black beach, growing into a haven where every stay nurtures
           the spirit.
@@ -177,7 +177,7 @@ const Varkala = () => {
             Location:
           </p>
           <p>
-            The Lost Hostels, Log Huts Area Rd, behind Apple Country Resort, Old
+            Lost traverse, Log Huts Area Rd, behind Apple Country Resort, Old
             Manali, Manali, Himachal Pradesh 175131
           </p>
           <p className="text-2xl font-playfair font-semibold text-[#116b89] mt-5">

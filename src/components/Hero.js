@@ -67,12 +67,10 @@ const Hero = () => {
     });
 
     window.open(
-      `https://live.ipms247.com/booking/mroominfo.php?HotelId=${
-        formData.hostel
+      `https://live.ipms247.com/booking/mroominfo.php?HotelId=${formData.hostel
       }&eZ_chkout=${formatDate(formData.checkOutDate)}&eZ_chkin=${formatDate(
         formData.checkInDate
-      )}&eZ_Nights=${daysDifference}&eZ_adult=${formData.adult}&eZ_room=${
-        formData.room
+      )}&eZ_Nights=${daysDifference}&eZ_adult=${formData.adult}&eZ_room=${formData.room
       }&executepage=mroominfo`,
       "_blank"
     );
@@ -121,7 +119,7 @@ const Hero = () => {
         Your browser does not support the video tag.
       </video>
 
-{/*     
+      {/*     
       <img
         src={poster}
         alt="Cover"
@@ -162,16 +160,16 @@ const Hero = () => {
               >
                 Varkala, Kerela
               </option>
-              <option
+              {/* <option
                 value="thelosthostelsbirbillinglandingsite"
                 className="text-black"
               >
-                Bir, Himachal Pradesh
-              </option>
+                Arugam bay, Sri lanka
+              </option> */}
               <option value="185812" className="text-black">
                 Weligama, Sri Lanka
               </option>
-               <option
+              <option
                 value="thelosthostelshiriketiyabeachsrilanka"
                 className="text-black"
               >

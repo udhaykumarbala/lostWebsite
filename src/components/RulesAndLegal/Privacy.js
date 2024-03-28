@@ -8,7 +8,7 @@ const Privacy = () => {
       </h2>
       <p className="w-2/3 text-[#4c4e4e]">
         <span className="font-semibold">
-          At The Lost Hostel, we are committed to protecting your privacy.
+          At The Lost Traverse, we are committed to protecting your privacy.
         </span>
         <br></br>
         <br></br>
