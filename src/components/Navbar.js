@@ -74,10 +74,10 @@ const Navbar = () => {
       )
       }
 
-      <div className="fixed top-6 left-0 w-[100vw] bg-transparent h-[10vh] flex justify-between items-center sm:px-28 px-5 font-medium navbar z-[99] text-white">
+      <div className="fixed top-8 left-0 w-[100vw] bg-transparent h-[10vh] flex justify-between items-center sm:px-28 px-5 font-medium navbar z-[99] text-white">
         <HashLink to="/#home">
           <p className="text-xl font-playfair relative flex items-center">
-            <img src={logo} className="mr-2 w-12" alt="lost traverse logo"></img>
+            <img src={logo} className="mr-2 w-16" alt="lost traverse logo"></img>
             Lost Traverse
           </p>
         </HashLink>

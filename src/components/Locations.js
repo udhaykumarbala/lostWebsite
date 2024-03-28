@@ -61,7 +61,7 @@ const Locations = () => {
                 Manali, Himachal Pradesh
               </h3>
               <p className='text-sm text-[#4c4e4e]'>
-                Lost Hostels Manali: A Himalayan sanctuary, where every
+                Lost Hostel Manali: A Himalayan sanctuary, where every
                 interaction weaves the extraordinary essence of the mountains
                 into your retreat.
               </p>

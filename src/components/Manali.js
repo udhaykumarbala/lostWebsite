@@ -12,7 +12,7 @@ const Manali = () => {
       <div className="manaliHero w-[95vw] h-[80vh] mt-[14vh] mx-auto relative rounded-md text-center">
         <div className="absolute top-10 left-12 text-left sm:w-1/3">
           <h1 className="text-3xl font-playfair font-semibold py-4 text-[#116b89]">
-            Embrace the Alpine Splendor <br></br>at Lost traverse Manali
+            Embrace the Alpine Splendor <br></br>at Lost Hostel Manali
           </h1>
 
           <p className="text-l font-medium text-[#10384D]">
@@ -63,10 +63,10 @@ const Manali = () => {
       </div>
       <section className="flex flex-col justify-center gap-8 items-center px-5 sm:px-28 w-full relative mb-12">
         <h2 className="text-3xl font-playfair font-semibold py-4 text-[#116b89]">
-          Why Lost traverse Manali?
+          Why Lost Hostel Manali?
         </h2>
         <p>
-          Lost traverse Manali stands as your sanctuary amidst the clouds,
+          Lost Hostel Manali stands as your sanctuary amidst the clouds,
           harmoniously nestled in the heart of the Himalayas. Our doors welcome
           you to an extraordinary experience that transcends the realms of the
           ordinary. Here, the very essence of the mountains weaves its threads
@@ -74,7 +74,7 @@ const Manali = () => {
           atmosphere that is truly unique.<br></br>
           <br></br>
           In <strong>November 2023</strong>, Manali became the latest chapter in
-          Lost traverse' enchanting journey. We have artfully crafted a
+          Lost Hostel' enchanting journey. We have artfully crafted a
           tapestry where comfort and adventure intertwine, providing a haven for
           those who yearn for the magic of stargazing and the enchantment of
           witnessing the sunrise. The spirit of Manali soars high, and we invite
@@ -170,7 +170,7 @@ const Manali = () => {
             Location:
           </p>
           <p>
-            Lost traverse, Log Huts Area Rd, behind Apple Country Resort, Old
+            Lost Hostel, Log Huts Area Rd, behind Apple Country Resort, Old
             Manali, Manali, Himachal Pradesh 175131
           </p>
           <p className="text-2xl font-playfair font-semibold text-[#116b89] mt-5">
