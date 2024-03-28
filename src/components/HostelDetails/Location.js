@@ -7,7 +7,7 @@ const Location = ({ hostelData }) => {
     <div className="w-11/12 md:w-10/12 mx-auto flex flex-col sm:flex-row justify-center items-start">
       <div className="w-full sm:w-1/2">
         <h1 className="text-3xl font-playfair font-semibold py-4 text-[#116b89]">
-          Around The Lost Hostels
+          Around Lost traverse
         </h1>
         <ul className="flex flex-wrap ">
           {hostelData?.nearbyPlaces.map((nearbyPlace) => (

@@ -12,7 +12,7 @@ const TourGroups = () => {
         not suitable for all large groups. For that reason, we ask that groups
         of ten guests or more request approval prior to making their
         reservation. If pre-approval isn’t secured for reservations larger than
-        ten guests, Lost Hostel reserves the right to cancel reservations larger
+        ten guests, Lost Traverse reserves the right to cancel reservations larger
         than ten guests at any time. <br></br> <br></br>Organized tour companies
         that are interested in staying with us during their organized tours
         should definitely reach out. We love working with tour groups that have
@@ -23,7 +23,7 @@ const TourGroups = () => {
         No Sex Tourists Policy
       </h2>
       <p className="w-1/2 text-[#4c4e4e]">
-        At The Lost Hostel, we maintain a respectful and inclusive environment
+        At The Lost Traverse, we maintain a respectful and inclusive environment
         for all guests. We do not tolerate sex tourism or any related
         activities. Guests engaging in such behavior will be asked to leave
         immediately, without refund.

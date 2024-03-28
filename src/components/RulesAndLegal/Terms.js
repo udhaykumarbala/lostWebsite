@@ -8,13 +8,13 @@ const Terms = () => {
       </h2>
       <p className="w-2/3 text-[#4c4e4e]">
         <span className="font-semibold">
-          Welcome to The Lost Hostel! By using our website and booking our
+          Welcome to The Lost Traverse! By using our website and booking our
           services, you agree to comply with the following terms and conditions:
         </span>
         <br></br>
         <br></br>
         <span className="font-semibold">Reservations:</span> All bookings are
-        subject to availability and acceptance by The Lost Hostel. We reserve
+        subject to availability and acceptance by The Lost Traverse. We reserve
         the right to decline or cancel bookings at our discretion. <br></br>
         <br></br>
         <span className="font-semibold">Payment:</span> Payment must be made in
@@ -39,7 +39,7 @@ const Terms = () => {
         <span className="font-semibold">Age Restrictions:</span> Guests under
         the age of 18 are not allowed at the property. <br></br>
         <br></br>
-        <span className="font-semibold">Changes to Terms:</span> The Lost Hostel
+        <span className="font-semibold">Changes to Terms:</span> The Lost Traverse
         reserves the right to modify these terms and conditions at any time.
         Changes will be effective upon posting on our website.
       </p>

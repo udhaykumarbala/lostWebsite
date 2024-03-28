@@ -6,7 +6,7 @@ const ManaliPage = () => {
       {/* Hero Section */}
       <section className="bg-hero-bg bg-cover bg-center py-16">
         <div className="container mx-auto text-center text-white">
-          <h1 className="text-4xl font-extrabold mb-4 text-theme-color">Embrace the Alpine Splendor at The Lost Hostels Manali</h1>
+          <h1 className="text-4xl font-extrabold mb-4 text-theme-color">Embrace the Alpine Splendor at Lost traverse Manali</h1>
           <p className="text-xl mb-4">Where the mountains whisper ancient tales and every path leads to wonder.</p>
           <button className="bg-theme-color hover:bg-blue-700 text-white font-bold py-2 px-4 rounded-full">
             Book Your Mountain Escape
@@ -26,12 +26,12 @@ const ManaliPage = () => {
         </div>
       </section>
 
-      {/* Why The Lost Hostels Manali */}
+      {/* Why Lost traverse Manali */}
       <section className="bg-gray-200 py-12">
         <div className="container mx-auto">
-          <h2 className="text-3xl font-extrabold mb-4 text-theme-color">Why The Lost Hostels Manali</h2>
+          <h2 className="text-3xl font-extrabold mb-4 text-theme-color">Why Lost traverse Manali</h2>
           <p className="text-lg mb-4">
-            The Lost Hostels Manali is your sanctuary in the clouds. Tucked away in the bosom of the Himalayas, our doors open to an experience that transcends the ordinary.
+            Lost traverse Manali is your sanctuary in the clouds. Tucked away in the bosom of the Himalayas, our doors open to an experience that transcends the ordinary.
             Here, the spirit of the mountains infuses every story, every interaction.
           </p>
           <img src="hostel-interior.jpg" alt="Hostel Interior" className="w-full rounded-lg shadow-lg" />
@@ -43,7 +43,7 @@ const ManaliPage = () => {
         <div className="container mx-auto">
           <h2 className="text-3xl font-extrabold mb-4 text-theme-color">Story of Lost in Manali</h2>
           <p className="text-lg mb-4">
-            Manali, where the spirits soar high, became our newest chapter in November 2023. The Lost Hostels has woven a tapestry of comfort and adventure here,
+            Manali, where the spirits soar high, became our newest chapter in November 2023. Lost traverse has woven a tapestry of comfort and adventure here,
             creating a home for those who chase the stars and the sunrise.
           </p>
           <img src="grand-opening.jpg" alt="Grand Opening Celebration" className="w-full rounded-lg shadow-lg" />

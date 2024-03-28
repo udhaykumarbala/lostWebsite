@@ -14,7 +14,7 @@ const Footer = () => {
       <div className='w-[100vw] bg-[#116b89] flex flex-col sm:flex-row  justify-between px-10 sm:px-28 py-12 text-white'>
         <div className=''>
           <h1 className='text-3xl font-playfair font-medium'>
-            The Lost Hostels
+            Lost Traverse
           </h1>
           <p className='text-xl text-[#8cb6c4]'>Come get lost with us.</p>
           <Link to='/'>
@@ -68,7 +68,7 @@ const Footer = () => {
             </HashLink>
             <HashLink to='/#locations'>
               <li className='text-sm text-[#8cb6c4] border-b border-transparent hover:border-[#8cb6c4] w-fit'>
-                Locations
+                Hostels
               </li>
             </HashLink>
             <HashLink to='/workwithus'>
@@ -110,9 +110,9 @@ const Footer = () => {
               </span>
             </li>
             <li className='text-sm text-[#8cb6c4]'>
-              Bir:
+              Arugam Bay:
               <span
-                onClick={() => openWhatsAppChat('+916230267754')}
+                onClick={() => openWhatsAppChat('+94772875566')}
                 style={{ cursor: 'pointer' }}
               >
                 +91 6230267754
@@ -148,7 +148,7 @@ const Footer = () => {
             <div class='flex items-center mt-2'>
               <a
                 rel='noopener noreferrer'
-                href='https://www.instagram.com/thelosthostels/?hl=en'
+                href='https://www.instagram.com/losttraverse/'
                 target='_blank'
                 class='flex justify-center items-center h-8 w-8 group relative border-2 border-[#8cb6c4] rounded-full mr-3'
               >
@@ -170,7 +170,7 @@ const Footer = () => {
               </a>
               <a
                 rel='noopener noreferrer'
-                href='https://www.facebook.com/losthostelgoa/'
+                href='https://www.facebook.com/losttraverse'
                 target='_blank'
                 class='flex justify-center items-center h-8 w-8 group relative border-2 border-[#8cb6c4] rounded-full mr-3'
               >
@@ -188,7 +188,7 @@ const Footer = () => {
               </a>
               <a
                 rel='noopener noreferrer'
-                href='https://www.linkedin.com/company/the-lost-hostels/?originalSubdomain=in'
+                href='https://www.linkedin.com/company/13264817/admin/feed/posts/'
                 target='_blank'
                 class='flex justify-center items-center h-8 w-8 group relative border-2 border-[#8cb6c4] rounded-full mr-3'
               >
@@ -232,7 +232,7 @@ const Footer = () => {
         </div>
       </div>
       <div className='bg-[#094256] flex flex-row  justify-between px-10 sm:px-28 py-2 text-[#3e7a8e] text-xs items-center'>
-        <p>&#169; 2023 Lost Hostels</p>
+        <p>&#169; 2023 Lost Traverse</p>
         <a
           href='https://www.instagram.com/vanshika_703/'
           target='_blank'
