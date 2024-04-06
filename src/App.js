@@ -28,6 +28,7 @@ import Popup from "./components/Popup";
 import YogaSchoolPage from "./components/Yoga/YogaSchoolPage";
 import Manali from "./components/Manali.js";
 import Varkala from './components/Varkala.js';
+import LaunchPad from "./components/LaunchPad/LaunchPad.js";
 
 const Wrapper = ({ children }) => {
   const location = useLocation();
@@ -98,6 +99,10 @@ const appRouter = createBrowserRouter([
       {
         path: '/yoga',
         element: <YogaSchoolPage />,
+      },
+      {
+        path: '/launchpad',
+        element: <LaunchPad />
       },
       {
         path: '/ourstory',

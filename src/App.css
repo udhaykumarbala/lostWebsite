@@ -336,6 +336,16 @@ input[type="date"] {
   padding: 12px;
 }
 
+.launchPadHero {
+  background: url("./img/launchpadv1.png");
+  background-attachment: fixed;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  margin: 12px;
+  padding: 12px;
+}
+
 .manaliHero {
   background: url("./img/manaliHero.jpg");
   background-attachment: fixed;
@@ -481,4 +491,8 @@ input[type="date"] {
   100% {
     background-position: top right;
   }
+}
+
+.scribble {
+  background-image: url("./img/scribble.png");
 }

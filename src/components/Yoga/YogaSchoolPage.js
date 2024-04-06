@@ -187,12 +187,12 @@ const YogaSchoolPage = () => {
           <p className="text-2xl font-playfair font-semibold text-[#116b89]">
             Location:
           </p>
-          <p>Lost Traverse Roof Top, Helipad Cliff, Varkala Beach, Kerala.</p>
+          <p>Lost Hostel Roof Top, Helipad Cliff, Varkala Beach, Kerala.</p>
           <p className="text-2xl font-playfair font-semibold text-[#116b89] mt-5">
             Contact Details:
           </p>
           <p>+91 7012416343</p>
-          <p>events@thelosthostels.com</p>
+          <p>contact@losttraverse.com</p>
         </div>
       </section>
     </div>
